@@ -32,6 +32,7 @@ add_lunch_combo cm_p930-userdebug
 add_lunch_combo cm_pyramid-userdebug
 add_lunch_combo cm_quincyatt-userdebug
 add_lunch_combo cm_satsuma-userdebug
+add_lunch_combo cm_shakira-userdebug
 add_lunch_combo cm_shooter-userdebug
 add_lunch_combo cm_shooteru-userdebug
 add_lunch_combo cm_skyrocket-userdebug
